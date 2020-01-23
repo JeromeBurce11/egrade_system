@@ -1,0 +1,25 @@
+body{
+    margin:10%;
+    text-align: center;
+    background:url('study1.jpg');
+    background-repeat: no-repeat;
+    
+   
+}
+table{
+     margin:20px;
+}
+h1{
+    font:60px times;
+    color: white;
+    text-align: center;
+}
+.error{
+    color:red;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-bottom: 10px;
+}
